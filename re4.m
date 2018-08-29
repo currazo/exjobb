@@ -1,4 +1,4 @@
-%Minimum time optimal control of EECM model of Li-ion battery.
+%Minimum time optimal control of EECM model of Li-ion battery...
 
 clc
 clf
